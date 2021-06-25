@@ -8,12 +8,13 @@
      
 
 ## 2. 개인 프로젝트 및 스터디
-### 1)
+### 1) 관심분야 
 * LSTM을 활용한 뉴스 기사 주제 분류
-* 추천 시스템 스터디
+* 음악 영화 추천 시스템 스터디
 * 텍스트 마이닝
 * EDA 연습
 
- ### 2) Kaggle 등
+ ### 2) 대회 데이터 분석
  * PUBG competition
+ * kkbox music recommendation competition
  * 
