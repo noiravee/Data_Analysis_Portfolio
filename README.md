@@ -1,7 +1,8 @@
 # Contents
 ## 1. 업무 프로젝트
 * YTN 유저 행동 분석 (user activity analysis in YTN PC/APP)
-* Facebook Prophet을 통해 YTN 구독자 수 예측해보기
+* Facebook Prophet을 통해 유튜브 YTN news 채널 구독자 수 예측해보기
+* 유튜브 채널 데이터 분석
 
 ##### *보안 상의 이유로 일부 데이터 및 분석내용은 비공개/ 마스킹 처리했습니다.
      
