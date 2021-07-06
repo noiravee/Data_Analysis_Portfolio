@@ -10,8 +10,8 @@
 ## 2. 개인 프로젝트 및 스터디
 ### 
 * 텍스트 분석 (뉴스 토픽모델링, 뉴스 주제 분류)
-* 음악 영화 추천 시스템 스터디
+
 
  * kaggle PUBG competition
- * kaggle kkbox music recommendation competition
+
  
