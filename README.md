@@ -13,6 +13,6 @@
 * 음악 영화 추천 시스템 스터디
 
 
- * PUBG competition
- * kkbox music recommendation competition
+ * kaggle PUBG competition
+ * kaggle kkbox music recommendation competition
  
