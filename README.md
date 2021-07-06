@@ -10,8 +10,8 @@
 ### 
 * LSTM을 활용한 뉴스 기사 주제 분류
 * 음악 영화 추천 시스템 스터디
-* 텍스트 마이닝
-* EDA 연습
+
+
  * PUBG competition
  * kkbox music recommendation competition
- * 
+ 
