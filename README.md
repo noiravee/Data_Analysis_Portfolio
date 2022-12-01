@@ -14,4 +14,4 @@
 
  * kaggle PUBG competition
 
- 
+etc zigzag user data analysis 
